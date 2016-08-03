@@ -1,2 +1,3 @@
 # hello-world3
 Just another repository.
+My name is Jamilia its pronounced Jamila but my friends call me Mila.  I hope I pass my assessment I really hope I can remember all of the stuff Ive learned about arrays, ojects , booleans and varibles oh yeah and control flow. Is it me or does it seem like programming is like taking a huge puzzle out of the box placing all of the pieces on the dinning room table coming up with  strategy only to put all of the pieces back in the box along with your strategy and doing this all over again the next day. But you gotta remember your strategy (like gathering all of the straight edges) so you can start at the level you had to stop. 
